@@ -1,0 +1,7 @@
+*.js linguist-vendored=false
+*.java linguist-vendored=false
+*.html linguist-vendored=false
+*.c++ linguist-vendored=false
+*.kotlin linguist-vendored=false
+*.CSharp linguist-vendored=false
+*.xml linguist-vendored=false
