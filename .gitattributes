@@ -1,3 +1,9 @@
-$ cat .gitattributes
-*.rb linguist-language=Dart
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.Dart linguist-detectable=true
+*.C++ linguist-detectable=false
+*.Kotlin linguist-detectable=false
+
 
