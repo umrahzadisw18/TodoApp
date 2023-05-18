@@ -1,4 +1,2 @@
-*.java linguist-vendored=false
-*.C++ linguist-vendored=false
-*.kotlin linguist-vendored=false
+*.rb linguist-language=Dart
 
